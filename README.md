@@ -1,9 +1,9 @@
-# olauncher
-The old launcher we all know and love with the quality-of-life features of the new launcher. This aims to support java 8 through modern java.
+# OldMCLauncher
+OldMCLauncher is a fork of [OLauncher](https://github.com/olauncher/olauncher/) with all the olauncher related branding removed for a more authentic experience.
 
 ## How to use
-1. Go to the [latest release](https://github.com/olauncher/olauncher/releases/latest)
-2. Download the `olauncher-xxx-redist.jar` file
+1. Go to the [latest release](https://github.com/sdhEmily/OldMCLauncher/releases/latest)
+2. Download the `OldMCLauncher-xxx-redist.jar` file
 3. Run it
 
 ### But the launcher is broken :(
