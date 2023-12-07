@@ -332,7 +332,7 @@ index 0000000..8f90e0a
 +    </parent>
 +
 +    <artifactId>olauncher</artifactId>
-+    <version>1.7.2_10</version>
++    <version>1.7.3</version>
 +
 +    <properties>
 +        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
