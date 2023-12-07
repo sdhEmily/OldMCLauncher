@@ -1,0 +1,7 @@
+---
+layout: post
+title: Minecraft 1.3.2
+---
+\+ Added sideways logs in trees<br>
+\* Fixed a bug that caused players to fall out of the world when going into the Nether<br>
+\* Fixed a bug that caused random suffocation damage in water<br>

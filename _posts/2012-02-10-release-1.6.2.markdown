@@ -1,0 +1,12 @@
+---
+layout: post
+title: Minecraft 1.6.2
+---
+This update fixes a lot of bugs and issues! Notable:
+
+\* Fixed horses getting hurt by walls<br>
+\* Fixed animals escaping their pens<br>
+\* Improved sprinting behavior<br>
+\* Ctrl + left-click on Mac now acts as right-click<br>
+
+If you haven’t got it already, this update requires the new launcher that you can find here: [http://minecraft.net/download](http://minecraft.net/download)

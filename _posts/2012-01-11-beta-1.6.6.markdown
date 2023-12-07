@@ -1,0 +1,16 @@
+---
+layout: post
+title: Minecraft Beta 1.6.6
+---
+1.6.6:
+
+\+ Added a new use for bonemeal<br>
+\* Changed the material of glowstone from “glass” to “stone”. This means you need a pickaxe to get resources from it<br>
+\* Made glowstone drop more loot<br>
+\* Made the recipe sizes for creating cloth blocks and glowstone blocks smaller (2x2 instead of 3x3)<br>
+\* Re-introduced unlimited FPS, renamed the option again<br>
+\* Fixed beds not working very well at all in SMP<br>
+\* Fixed destroying a boat spawning the player too low, causing them to sometimes fall through the ground<br>
+\* Boats float up to the surface quicker<br>
+\* Boats falling down into water lose their vertical momentum very fast<br>
+\* Removed Herobrine<br>

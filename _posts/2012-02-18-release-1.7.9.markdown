@@ -1,0 +1,5 @@
+---
+layout: post
+title: Minecraft 1.7.9
+---
+We have pushed out an update that supports name changes, however we will not allow name changes until a future date. For information on how name changes will work, please [see these frequently asked questions](https://href.li/?https://mojang.com/2014/04/minecraft-1-7-6-pre-release/).

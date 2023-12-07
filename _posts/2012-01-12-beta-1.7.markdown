@@ -1,0 +1,14 @@
+---
+layout: post
+title: Minecraft Beta 1.7
+---
+1.7:
+
+\+ Added pistons<br>
+\+ Fire or redstone is now required to trigger TNT<br>
+\+ Fences can be stacked<br>
+\+ Added shears<br>
+\+ Shears can be used to pick up leaf blocks<br>
+\+ Shears can be used to shear sheep without hurting them<br>
+\* Sheep no longer drop wool from being punched<br>
+\- Removed Herobrine<br>

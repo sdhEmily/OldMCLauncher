@@ -1,0 +1,5 @@
+---
+layout: post
+title: Minecraft 1.8.8
+---
+We have released Minecraft version 1.8.8 to fix some security issues and improved some functionality within Realms. Updating is highly recommended from older versions, and is 100% compatible with all 1.8 versions. 

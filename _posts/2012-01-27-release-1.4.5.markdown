@@ -1,0 +1,8 @@
+---
+layout: post
+title: Minecraft 1.4.5
+---
+\* Fixed “Open to LAN” feature<br>
+\* Fixed incorrect positions of certain particles<br>
+
+Compatible with 1.4.4 servers.

@@ -1,0 +1,13 @@
+---
+layout: post
+title: Minecraft Beta 1.4
+---
+\* Added tameable wolves<br>
+\* Added cookies<br>
+\* Sleeping in a bed now resets your spawn position<br>
+\* New Minecraft logo<br>
+\* Holding shift while climbing will hang on to the ladder<br>
+\* Spiders will no longer trample crops<br>
+\* Lots and lots of infrastructure for Statistics lists and Achievements<br>
+
+While most of the code is written, statistics and achievements won’t show up until the next update. We didn’t quite have time to finish them this week, and didn’t want to delay the update longer.

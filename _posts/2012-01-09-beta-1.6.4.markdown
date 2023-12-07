@@ -1,0 +1,6 @@
+---
+layout: post
+title: Minecraft Beta 1.6.4
+---
+\* Fixed 1.6.3 using more CPU despite it claiming to use less<br>
+\* Totally professional<br>

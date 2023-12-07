@@ -1,0 +1,20 @@
+---
+layout: post
+title: Minecraft Beta 1.6.3
+---
+1.6.3:
+
+\+ The renderer is now capped at 100 fps while there are chunks to be generated. The excess time will be spent generating chunks instead of rendering frames<br>
+\+ The “limit framerate” option now limits the game to 40 fps and will spend at least 10 ms per frame sleeping<br>
+\+ The “limit framerate” option has been reset to “off” for all players, enable it again if you want it<br>
+\* Fixed some block updates not updating lighting properly under some circumstances by reverting the “don’t always send block data” fix in 1.6<br>
+\* Fixed a major CPU load issue in the server where a very tight loop would starve all other threads<br>
+\* Fixed furnaces dropping/duplicating their contents when they change state from lit to unlit or back<br>
+
+1.6.2:
+
+\* Fixed an ACTUAL item duplication bug while picking up some items<br>
+
+1.6.1:
+
+\* Fixed a visual item duplication bug when trying to pick up items while the inventory is full<br>

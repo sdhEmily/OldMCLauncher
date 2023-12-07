@@ -1,0 +1,7 @@
+---
+layout: post
+title: Minecraft 1.4.7
+---
+\* Fixed crash related to arrows fired from dispensers<br>
+\* Fixed a multiplayer crash when using fireworks without a fireworks star<br>
+\* Fixed long timeout when checking SRV records<br>

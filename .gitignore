@@ -1,10 +1,6 @@
-work
-launcher
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
 .*.swp
-olauncher
-
-.idea
-*.iml
-target
-
-*.jar

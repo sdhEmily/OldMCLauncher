@@ -1,0 +1,16 @@
+---
+layout: post
+title: Minecraft Beta 1.5
+---
+(You will need to [update your servers][update-servers] as well)
+
+\* Weather (rain, snow, thunder)<br>
+\* Statistics<br>
+\* Achievements<br>
+\* Detector rail<br>
+\* Booster rail<br>
+\* Performance improvements<br>
+
+More statistics and achievements will be added over time as we develop the game. They’re only stored locally at the moment, but we’ll slowly be rolling out online storing of achievements over time.
+
+[update-servers]: https://www.minecraft.net/en-us/download.jsp

@@ -1,0 +1,51 @@
+---
+layout: post
+title: Minecraft Beta 1.8
+---
+\+ Added a brand new biome generation code that simplifies life a lot and makes things much more exciting for the future<br>
+\+ Added new mob; Endermen<br>
+\+ Added FOV slider<br>
+\+ Added brightness slider<br>
+\+ Added randomly generated ravines<br>
+\+ Killing a monster makes it drop experience orbs<br>
+\+ The player can level up by gathering experience orbs<br>
+\+ Added randomly generated houses<br>
+\+ Added huge mushrooms<br>
+\+ Using bonemeal on small mushrooms grows the mushroom into a giant mushroom if there’s room<br>
+\+ Rewrote the light rendering to use multitexturing instead of direct colors<br>
+\+ Sky light and block light have different tints, cool colors for sky light, warm for block lights<br>
+\+ Added critical hits that deal +50% damage, plus an extra point to make crits with weak weapons worth it<br>
+\+ If the player hits a mob while falling, they always hit a critical hit<br>
+\+ The game now keeps track of damage sources and types<br>
+\+ Some damage type ignore armor now; drowning, being on fire (but not being IN a fire), falling out of the world<br>
+\+ Ice now only spreads next to existing ice or from coast areas<br>
+\+ Made the explosions prettier<br>
+\+ Made level height depend on a single variable (the level height still is 128, but it’s more moddable now)<br>
+\+ Added sprinting<br>
+\+ Added hunger<br>
+\+ Food is now stackable<br>
+\+ Improved the logo<br>
+\+ Added suspended particles to water<br>
+\+ Added a server list so you can remember multiple servers<br>
+\+ The player regenerates slowly while the food bar is high<br>
+\+ Eating food now takes time<br>
+\+ Skeletons hold their bows better now<br>
+\+ Added melons<br>
+\+ Made melons and pumpkins farmable<br>
+\+ Animals that get hurt will flee randomly for a short while<br>
+\+ Pigs have snouts now<br>
+\+ Made a flashier title screen<br>
+\+ Looking towards the sun during sunset/sunrise changes fog color<br>
+\+ Added fence gates<br>
+\+ Added a player list to multiplayer<br>
+\+ Added Silverfish<br>
+\+ Added Cave Spider<br>
+\+ Added huge underground dungeons (stronghold)<br>
+\+ Added underground mine shafts<br>
+\+ Added melon<br>
+\+ Added sprouts for melons and pumpkins<br>
+\+ Added vines<br>
+\+ Added iron bars<br>
+\* Fixed mushrooms spreading infinitely<br>
+\* Fixed caves generating with too many dead ends<br>
+\- Removed Herobrine<br>

@@ -1,0 +1,28 @@
+---
+layout: post
+title: Minecraft 1.5
+---
+Watch the Minecraft 1.5 Redstone Update in song form: [http://www.youtube.com/watch?v=YmpxpH-tMWc](http://www.youtube.com/watch?v=YmpxpH-tMWc)
+
+\+ Added Redstone Comparator (used in Redstone logic)<br>
+\+ Added Hopper (collects items and moves them to containers)<br>
+\+ Added Dropper (similar to Dispensers, but always drops the item)<br>
+\+ Added Activator Rail (activates TNT Minecarts)<br>
+\+ Added Daylight Sensor<br>
+\+ Added Trapped Chest<br>
+\+ Added Weighed Pressure Plate<br>
+\+ Added Block of Redstone<br>
+\+ Added Nether Brick (item)<br>
+\+ Added Nether Quartz and ore<br>
+\+ Added Block of Quartz, with half blocks and chiseled variants<br>
+\+ New command: /scoreboard<br>
+\+ New command: /effect<br>
+\+ Containers and mobs can have custom names<br>
+\* Inventory management has been changed, for example you can drag-place items over slots<br>
+\* Texture packs now have separate images for each block and item, and can have animations<br>
+\* Nether Quartz Ore now spawns in the Nether<br>
+\* Smooth lighting now has three settings (none, minimal, maximum)<br>
+\* More detailed death messages<br>
+\* Some hostile mobs now are harder in Hard difficulty<br>
+\* Many, many, bug fixes<br>
+\- Removed Herobrine<br>

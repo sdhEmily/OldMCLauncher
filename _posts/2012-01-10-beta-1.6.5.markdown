@@ -1,0 +1,23 @@
+---
+layout: post
+title: Minecraft Beta 1.6.5
+---
+There are some annoying bed bugs in multiplayer in this version, I’ll fix those next week.
+
+1.6.5:
+
+\* Tweaked the connection reading code a lot. Hopefully this helps.<br>
+\* Changed the “limit framerate” option to a “framerate cap” option.<br>
+\* Added “Advanced OpenGL” again<br>
+\* Players riding anything or sleeping in anything will stop doing so when they leave the game now<br>
+\* Removed the minecraft version number from the main game window. It’s still available in the title screen<br>
+\* Fixed some entities appearing to fall through the ground repeatedly in multiplayer (some might still do so)<br>
+\* Fixed the server sometimes thinking the player hit a corner when walking when they didn’t<br>
+\* Fixed dropped damaged items vanishing after a single use after being picked up<br>
+\* Fixed dropped items not getting ejected from blocks properly<br>
+\* Fixed the achievements window rendering some graphics outside the clip window<br>
+\* Fixed players saving while sneaking being loaded too high up<br>
+\* Fixed shift+click transferring items causing a crash when the target container is full<br>
+\* Fixed lighting updates sometimes not happening correctly<br>
+\* Fixed the players health appearing to be full when entering/exiting the nether<br>
+\* Fixed a couple of instances where beds would act strange in multiplayer, primarily the “already occupied” bug<br>

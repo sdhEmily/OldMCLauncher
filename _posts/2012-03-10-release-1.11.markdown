@@ -1,0 +1,15 @@
+---
+layout: post
+title: Minecraft 1.11 - The Exploration Update
+---
+New mobs and new places to put your precious items!
+\+ Added cursed enchantments<br>
+\+ Added the Observer block<br>
+\+ Added escape portals in The End<br>
+\+ Added the Shulker Shell and Shulker Box<br>
+\+ Added exploration maps<br>
+\+ Added the Woodland Mansion<br>
+\+ Added Illagers, and the Vex<br>
+\+ Added Llamas<br>
+\+ New command: /locate<br>
+\- Removed Herobrine <br>

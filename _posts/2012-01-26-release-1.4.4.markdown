@@ -1,0 +1,148 @@
+---
+layout: post
+title: Minecraft 1.4.4
+---
+(Includes Minecraft 1.4.3)
+
+\* Over 120 bugs and glitches fixed<br>
+\* Notable: The missing song “where are we now” is now available, but called “wait”<br>
+\* Notable: Random falling damage due to lag fixed<br>
+\* Notable: Falling damage when riding minecarts fixed<br>
+\* Notable: Enchanted book exploit fixed<br>
+\* Notable: Slimes have correct collision box<br>
+\* Notable: Signs no longer lose their text client-side<br>
+
+Full list! Long!
+
+\* [MC-2] - Enchanted items show its background on the beacon-block<br>
+\* [MC-5] - In Minecraft ore emerald can be broken with a minimum iron pickaxe, but the block emerald can be broken with all the pickaxes.<br>
+\* [MC-6] - Minecart sound doesn’t stop<br>
+\* [MC-7] - Skeletons holding swords will shoot arrows!<br>
+\* [MC-13] - Arrows do not stick (and stay) in mobs<br>
+\* [MC-15] - Item drops drop into transparent blocks and cannot be picked up.<br>
+\* [MC-17] - Anvil block collision box appears “sunken”<br>
+\* [MC-20] - Getting door drop in creative<br>
+\* [MC-23] - Falling out of the world while chunks are loading<br>
+\* [MC-30] - Some of the regular sounds are now server-sided<br>
+\* [MC-33] - Placing 2 wooden-slabs will play the sounds from 12w38a<br>
+\* [MC-34] - Pink dye on Sheep appears white on top<br>
+\* [MC-36] - Using /tp on a player in different world will teleport to needed coordinates, but not change the world<br>
+\* [MC-38] - Fence Gate Texture flips inside out<br>
+\* [MC-39] - Mobs in minecarts can vanish when minecarts are broken<br>
+\* [MC-40] - Calculate name plate length based on username stripped of color codes<br>
+\* [MC-47] - Cant kill slimecubes<br>
+\* [MC-51] - You Can Duplicate Dragon Eggs, Sand, and Gravel<br>
+\* [MC-54] - mobs are immediately transfered back to the overworld upon spawning in the nether<br>
+\* [MC-56] - Broken or missing animations with potion of invisibility<br>
+\* [MC-57] - Anvil rendering error in item frames<br>
+\* [MC-66] - score doesn’t work anymore<br>
+\* [MC-74] - when a block is placed next to an end portal block with an eye of ender in it, you can see through it<br>
+\* [MC-81] - Item Frames in Multiplayer don’t store item NBT data<br>
+\* [MC-86] - Graphical glitch with cactus in a flower pot near a wall.<br>
+\* [MC-100] - Odd chance where you take fall damage when sprinting off 2 or 1 blocks<br>
+\* [MC-110] - Breaking effects sometimes duplicate sounds & effects<br>
+\* [MC-116] - Music discs reverting to original name after being played, even if they’ve been renamed by the anvil<br>
+\* [MC-118] - Dying dogs collar doesn’t use your dye<br>
+\* [MC-125] - Signs missing text<br>
+\* [MC-141] - /spawnpoint command block fails directly on tripwire string / pressure plate<br>
+\* [MC-147] - Tree leaves break half slabs<br>
+\* [MC-154] - Multiple consecutive newlines in books do not create a space between lines in editor<br>
+\* [MC-155] - Wither Despawns in Peaceful and Shouldn’t<br>
+\* [MC-159] - Death from a 2-4 block drop while changing gamemodes<br>
+\* [MC-160] - Dragon egg particles are missing<br>
+\* [MC-166] - Potatoes and carrots uproot themselves<br>
+\* [MC-176] - Map item placed in item frame experiences Z-fighting<br>
+\* [MC-187] - teleporting a player triggers a pressure plate sometimes<br>
+\* [MC-191] - Minecart flickers when looking backwards<br>
+\* [MC-196] - Falling anvils do not maintain orientation while falling<br>
+\* [MC-212] - Faulty fall damage when logging out and logging back in while falling<br>
+\* [MC-218] - Breaking a block touching an open trapdoor closes it.<br>
+\* [MC-222] - Vines, Fern, Grass and Lily Pad appear grey when held in F5 mode<br>
+\* [MC-231] - Teleport through walls glitch<br>
+\* [MC-264] - Different stacking slab sound<br>
+\* [MC-270] - Skeletons shoot arrows faster than humanly possible<br>
+\* [MC-298] - Text misplaced in demo mode window and 4:3 screen<br>
+\* [MC-303] - “Your game mode has been changed” shows in log when it hasn’t.<br>
+\* [MC-310] - Dropped items stop minecarts on their track<br>
+\* [MC-311] - If you put an anvil ( or a few other items) into a display case and turn it upside down then the orange from the case will start to overlay the item in the case<br>
+\* [MC-313] - Chest Hitbox Wrong<br>
+\* [MC-335] - Dropped items with NBT tags do not stack<br>
+\* [MC-347] - Open Doors and Levers hate each other<br>
+\* [MC-388] - Squids spawning everywhere.<br>
+\* [MC-398] - Structures generating in wrong biomes<br>
+\* [MC-418] - Particles don’t show correctly when sprinting on blocks with different variations like wool, wood and biome colored grass.<br>
+\* [MC-491] - Ladders breaking glitching out<br>
+\* [MC-504] - Mobs try to jump nether brick fence<br>
+\* [MC-529] - Buggy fall damage in 1-deep water<br>
+\* [MC-541] - Flaming arrows won’t trigger tnt when shot from above.<br>
+\* [MC-598] - When you have detailed item descriptions on, renamed item’s name is not in italic.<br>
+\* [MC-606] - zombies can pick up items while dying<br>
+\* [MC-645] - Items at the top-left corner of a container cannot be duplicated with the pick block key<br>
+\* [MC-647] - Tnt sometimes makes item drops when it is ignited by the explosion of another Tnt<br>
+\* [MC-652] - Books allow client to apply any name and enchantment<br>
+\* [MC-740] - Invisibility Potions not completed in correct time displayed<br>
+\* [MC-743] - More Ender Egg Render Problems<br>
+\* [MC-760] - Denial of Service with LAN worlds if someone logs into a LAN server with the host’s username<br>
+\* [MC-767] - Creating world with seed and map world “QUATREPOINTDEUX” fails<br>
+\* [MC-771] - Death by Bat<br>
+\* [MC-827] - Server Crash when client logs in with invalid difficulty<br>
+\* [MC-853] - Item frames do not show directly after entering the game<br>
+\* [MC-864] - Snow Golem won’t die<br>
+\* [MC-894] - “where are we now” disc is unavailable<br>
+\* [MC-973] - Bat noises are painful and cause headaches.<br>
+\* [MC-977] - When riding a minecart, fall damage lags.<br>
+\* [MC-1004] - Custom spawners with no delay variance crash the game<br>
+\* [MC-1023] - Potion of Weakness removes ability to destroy paintings and item frames<br>
+\* [MC-1037] - Missing pitch rotations in OpenAL implementation<br>
+\* [MC-1088] - Lightning strikes can create client side fires (ghost fires)<br>
+\* [MC-1102] - Minecraft crashes in creative inventory<br>
+\* [MC-1132] - Netherportals create a huge lag, especially when serveral entities have to be teleported<br>
+\* [MC-1136] - Enderpearls (and other throwable objects) loose their link to the thrower when reloaded<br>
+\* [MC-1162] - When you jump on wheat crops usually the farmland become dirt, then seeds and wheat be dropped. However if you jump on potatoes and carrots crops farmland become dirt, but crops stay there.<br>
+\* [MC-1181] - SkullOwner lost when breaking a player skull block<br>
+\* [MC-1195] - Beacon particles show if below beacon<br>
+\* [MC-1236] - Escape key doesn’t take you back to main menu from Multiplayer screen<br>
+\* [MC-1243] - Wither Breaks End Portals<br>
+\* [MC-1285] - Put An Item Frame In A Item Frame And Sometimes You Only Get 1 Item Frame Back!<br>
+\* [MC-1301] - Named maps lose their title after copying<br>
+\* [MC-1318] - By placing a bed at the same time as throwing it away makes it a half bed.<br>
+\* [MC-1319] - Getting bed drop in creative<br>
+\* [MC-1332] - Cobblestonewall has fence-collisions<br>
+\* [MC-1378] - Adventure mode graphical issue breaking blocks<br>
+\* [MC-1381] - Mushrooms spawn on the top of the Nether<br>
+\* [MC-1385] - Placing Trapdoors on half-slabs<br>
+\* [MC-1399] - Block textures held by players (third person view) are mirrored<br>
+\* [MC-1444] - Flying through cobwebs in creative affects the player and shouldn’t<br>
+\* [MC-1454] - Shift (crouch) will not stop you from falling off of an anvil.<br>
+\* [MC-1464] - Falling sand appears on fire when falling into lava<br>
+\* [MC-1473] - Fire doesn’t show if you shoot a mob in a minecart<br>
+\* [MC-1547] - Spinning while placing a bed creates a triangular bed<br>
+\* [MC-1574] - Can’t destroy glass in Adventure Mode<br>
+\* [MC-1586] - Minecraft crashes if connection is lost when editing signs<br>
+\* [MC-2196] - Reopened - Map item placed in item frame experiences Z-fighting<br>
+\* [MC-2417] - serious balance issues regarding bookshelf recipes<br>
+\* [MC-2483] - Pushing and knocbacking bugs<br>
+\* [MC-9] - Dropped anvil makes no sound when it breaks<br>
+\* [MC-334] - Tab key not working for any function on mac<br>
+\* [MC-450] - Chicken head movement is inverted<br>
+\* [MC-473] - Linux users can’t open to lan because it’s binded to 127.0.0.1<br>
+\* [MC-515] - Chest glitch that lets them appear as if they are opened while they are not.<br>
+\* [MC-527] - “seed” command doesn’t work in Minecraft server command line<br>
+\* [MC-936] - Squids are flying!<br>
+\* [MC-984] - Internal exception: java.io.IOException: Bad packet id 249<br>
+\* [MC-1079] - Killing animals with fire aspect on the first hit does not cook the drops<br>
+\* [MC-1153] - Torch texture<br>
+\* [MC-1608] - Iron Golems crash the player when they walk<br>
+\* [MC-1622] - Enderchest doesn´t have the right hitbox.<br>
+\* [MC-1647] - Cannot fall into void<br>
+\* [MC-1661] - Crash when placing minecart on powered rail.<br>
+\* [MC-1741] - Loading a world that has been moved or deleted causes a crash<br>
+\* [MC-1745] - player can jump over cobblestone walls<br>
+\* [MC-1789] - Squids do not suffocate on land<br>
+\* [MC-1793] - Nether Brick Fence bad texture<br>
+\* [MC-1845] - Crash with rendering item entities<br>
+\* [MC-1871] - Running on leaves produces grey particles<br>
+\* [MC-2229] - Fences are not rendered correctly from underneath<br>
+\* [MC-2362] - Item frames disappear without drop when a block is placed in their position<br>
+\* [MC-2400] - disappearing mobs and items after dying<br>
+\* [MC-2574] - Slimes on water<br>

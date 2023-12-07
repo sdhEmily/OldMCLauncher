@@ -1,0 +1,15 @@
+---
+layout: post
+title: Minecraft Beta 1.3
+---
+\* Implemented a new lighting engine with the help of MrMessiahs (can be turned off)<br>
+\* Changed the options around, added a new “Graphics options” button<br>
+\* Added beds. If all players in a map sleeps in a bed during night, the game immediately skips until morning<br>
+\* Added three new half-size blocks<br>
+\* Added Delay/Repeater redstone dust blocks<br>
+\* Added whitelisting to the server. To use, enter “whitelist &lt;cmd&gt;” where cmd is “on”, “off”, “add &lt;player&gt;”, “remove &lt;player&gt;”, “list” or “reload”<br>
+\* New save file format, old maps need to be converted (that might take a while..)<br>
+\* It’s now possible to have more than five save slots, and to rename saves<br>
+\* Scrollbars in both the texture pack list, and in the map selection screen<br>
+\* Replaced the Mojang splash image to reflect the new logo colors<br>
+\* .. and a bunch of bug fixes and tweaks!<br>

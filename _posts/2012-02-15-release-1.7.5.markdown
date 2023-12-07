@@ -1,0 +1,7 @@
+---
+layout: post
+title: Minecraft 1.7.5
+---
+\* Minecraft Realms adds mini game support<br>
+\* Several server-side performance improvements and bug fixes<br>
+\* Preparations to bring Minecraft Realms to more countries!<br>

@@ -1,0 +1,15 @@
+---
+layout: post
+title: Minecraft Beta 1.7.3
+---
+Bug fixes, bug fixes and bug fixes.
+
+\- Corrected a block duplication bug when using pistons<br>
+\- Corrected a redstone torch duplication bug when using pistons<br>
+\- Corrected a client crash when placing a sign in front of the piston, powering the piston and then removing the block beneath the sign<br>
+\- Ice blocks are now pushed without causing water streams breaking everything<br>
+\- Booster rails are no longer being powered magically without a power source<br>
+\- Pistons connected to the end of a piston-transistor via redstone are now properly closed when the power goes out<br>
+\- Doors no longer create purple particles<br>
+\- Hacking clients can no longer edit texts of placed signs in multiplayer<br>
+\- Changed so that paintings pushed by pistons will pop off<br>

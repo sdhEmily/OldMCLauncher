@@ -1,0 +1,5 @@
+---
+layout: post
+title: Minecraft 1.8.3
+---
+We have released version 1.8.3 of Minecraft, which brings a bunch of optimizations and bug fixes. It’s 100% compatible with older 1.8.x versions.

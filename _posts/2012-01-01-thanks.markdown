@@ -1,0 +1,5 @@
+---
+layout: post
+title: Thanks for helping test this!
+---
+The biggest problem so far seems to be the “too many failed log in attempts” bug. That’s caused by the server getting every one connecting to the server mixed up

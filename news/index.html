@@ -1,0 +1,22 @@
+---
+layout: news
+title: Minecraft News
+---
+
+{% for post in paginator.posts %}
+  <div style="margin-top:16px">
+    <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+    <div class="content">
+      {{ post.content }}
+    </div>
+  </div>
+{% endfor %}
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="newer">Newer</a>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="older">Older</a>
+  {% endif %}
+</div>

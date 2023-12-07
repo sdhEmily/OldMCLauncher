@@ -1,0 +1,26 @@
+---
+layout: post
+title: Minecraft 1.10 - The Frostburn Update
+---
+It’s time for Minecraft 1.10!
+
+Features:
+
+\+ Added Polar Bear<br>
+\+ Added Husk and Stray<br>
+\+ An auto-jump option<br>
+\+ Structure blocks for custom maps<br>
+\+ Underground fossils made from bone blocks<br>
+\+ Added Magma Block<br>
+\+ Added Nether Wart Block and Red Nether Bricks<br>
+\* Improvements to some commands<br>
+\* Some huge mushrooms can be even larger<br>
+\* A rare chance to find lonely trees in plains<br>
+\* Find abandoned mineshafts filled with gold in mesa biomes<br>
+\* Villages generate better paths between the buildings<br>
+\* More variations of villages, based on the biomes they are built in<br>
+\* Endermen have been spotted in the Nether<br>
+\* Many bug fixes<br>
+\- Removed Herobrine<br>
+
+// The Minecraft Team

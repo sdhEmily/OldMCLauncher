@@ -1,0 +1,16 @@
+---
+layout: post
+title: Minecraft 1.11.2 Released
+---
+Surprise! Minecraft is now at version 1.11.2!
+
+The main purpose of this update is to fix a number of bugs, but we also took the opportunity to introduce a number of other features. Just in time for the holidays!
+
+\+ Added rocket-propelled elytra flight<br>
+\+ Added Iron Nuggets<br>
+\+ Added Sweeping Edge enchantment for swords<br>
+\* Changed the attack indicator to hint when you should attack<br>
+
+The update is available in your Minecraft launcher, enjoy!
+
+Merry Christmas and Happy New Year from the Minecraft Team!

@@ -1,0 +1,22 @@
+---
+layout: post
+title: Minecraft 1.2.5
+---
+\+ Added shift clicking support in furnaces<br>
+\+ Added method to easily acquire blocks you have selected in the world in Creative mode using the ‘pick block’ key<br>
+\* Made the Direct Connect dialog remember the last IP for the current session<br>
+\* Fixed issues detected certain links in chat<br>
+\* Fixed wild ocelots behaving like tamed cats<br>
+\* Fixed various chat crashes<br>
+\* Made cats less eager to sit on things<br>
+\* Made cats less patient<br>
+\* Fixed world generation failing under certain circumstances<br>
+\* Fixed issues turning off sound under certain circumstances<br>
+\* Removed all ghost entities under the command of Lord Herobrine<br>
+\* Fixed crash when pasting certain characters in chat<br>
+\* Fixed slash ‘/’ key not behaving correctly in certain environments<br>
+\* Fixed command matching being too greedy (for example: typing ‘/stophammertime’ no longer stops your server)<br>
+\* Fixed not being able to click coloured links<br>
+\* Fixed potential issue with village door detection (which could cause too many villagers)<br>
+\* Made using a stack of bowls on Mooshrooms not consume the whole stack of bowls<br>
+\* Made punching a TNT block with flint and steel in hand destroy and drop a TNT block (right-clicking will activate the TNT)<br>

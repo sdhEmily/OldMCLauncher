@@ -1,0 +1,8 @@
+---
+layout: post
+title: Minecraft 1.5.1
+---
+\* Fixed a bunch of bugs<br>
+\* Improved performance<br>
+\* Notable: Crash on Mac OS X on “OpenGL Function Not Supported”<br>
+\* Notable: Unable to place paintings<br>
