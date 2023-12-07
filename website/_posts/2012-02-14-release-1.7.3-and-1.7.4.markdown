@@ -1,0 +1,20 @@
+---
+layout: post
+title: Minecraft 1.7.3 & 1.7.4
+---
+It’s time for an update again!
+
+\+ Added Twitch.tv broadcasting integration (see below)<br>
+\* Improved Realms menus<br>
+\* Fixed render distance above 8<br>
+\* Various bugs have been taken care of<br>
+
+To use the Twitch broadcasting you need to link your Mojang account with your Twitch account. This only works with migrated accounts (in other words, if you login using your email address instead of your username, you can use the Twitch integration). The linking is done via the account settings, which can be found here:
+
+[https://account.mojang.com/me/settings](https://account.mojang.com/me/settings)
+
+To start broadcasting, simply press F6 while playing. You find more options in the menus.
+
+The integration currently only works on Windows Vista or later, and on Mac OS X Lion (10.7) or later.
+
+You can always get more in-depth development updates on the official [Mojang blog](https://mojang.com)!

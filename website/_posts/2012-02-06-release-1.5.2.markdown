@@ -1,0 +1,7 @@
+---
+layout: post
+title: Minecraft 1.5.2
+---
+\* A bunch of bug fixes!<br>
+\* Performance improvements when using HD texture packs<br>
+\* Many improvements for Minecraft Realms (will become publicly available “soon”)<br>

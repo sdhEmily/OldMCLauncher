@@ -1,0 +1,43 @@
+---
+layout: post
+title: Minecraft 1.7.2
+---
+THE UPDATE THAT CHANGED THE WORLD
+
+(This update includes 1.7 and 1.7.1)
+
+\+ Added lots of new biomes!<br>
+\+ Added “AMPLIFIED” world type<br>
+\+ Added Acacia and Old Oak wood types<br>
+\+ Added Stained Glass<br>
+\+ Added Packed Ice, Red Sand, Podzol<br>
+\+ Added a bunch of new flowers, including double-height flowers and grass<br>
+\+ Added more types of fish<br>
+\+ Fishing rods can be enchanted<br>
+\+ Achievements are now world specific<br>
+\+ Gaining achievements now announced to other players<br>
+\+ Added a few new achievements<br>
+\+ Servers can now have a “server-icon.png” that is displayed in the multiplayer list<br>
+\+ You can see who’s online before joining, just hover the player count number in the server list<br>
+\+ New /summon command<br>
+\+ Added Command Block minecart<br>
+\+ Links in chat are now clickable<br>
+\+ Click on somebody’s name to send a private message<br>
+\+ Added a bunch of new graphics options<br>
+\+ Added some shader tests (click on the “Super Secret Settings” a couple of times…)<br>
+\* Biome placement has been improved, and oceans are smaller<br>
+\* Portals to the Nether can now have different shapes<br>
+\* Fishing is now more interesting<br>
+\* Maps in item frames are now extra big<br>
+\* The achievement screen is zoomable<br>
+\* Preparations have been made to offer name change in the future<br>
+\* You can now have multiple resource packs loaded at the same time<br>
+\* Resource packs can now hold sound effects<br>
+\* Servers can recommend resource packs<br>
+\* Network code has been rewritten<br>
+\* Sound manager has been rewritten<br>
+\* Many many bug fixes…<br>
+\- Removed the Rose flower<br>
+\- Removed Herobrine<br>
+
+Next up: MINECON 2013, Orlando, Florida, USA

@@ -1,0 +1,7 @@
+---
+layout: post
+title: Minecraft 1.2.3
+---
+\* Fixed crash bug at height 255<br>
+\* Corrected Zombies and Skeletons not burning in sunlight<br>
+\* Corrected birch and spruce saplings not growing at height > 127 <br>

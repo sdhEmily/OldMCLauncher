@@ -1,0 +1,36 @@
+---
+layout: post
+title: Minecraft 1.9 - Combat Update
+---
+Minecraft has been updated to version 1.9!
+
+The pretty much almost complete feature list:
+
+\* Added shields<br>
+\* Attacking now has a “cool-down” delay, making it more important to time your attacks<br>
+\* You can now hold items in both hands (default quick key to swap items is ‘F’)<br>
+\* Swords have a special sweep attack<br>
+\* Axes have a special crushing blow attack<br>
+\* Added the elytra<br>
+\* New mob: Shulker<br>
+\* Expanded The End<br>
+\* Added Chorus plants<br>
+\* New Purpur blocks<br>
+\* New End Rod block<br>
+\* Added dragon head block<br>
+\* Ender Dragon can be resummoned<br>
+\* Added beetroot and beetroot soup (from MC:PE)<br>
+\* Added grass path block<br>
+\* Added igloos<br>
+\* Armor protection values have been lowered<br>
+\* Added tipped arrows<br>
+\* Added spectral arrows<br>
+\* Added Frost Walker enchantment and frosted ice block<br>
+\* Added a whole bunch of new sound effects<br>
+\* Added sound effect subtitles<br>
+\* Brewing Stand now requires Blaze Powder to activate<br>
+\* Added skeleton riders<br>
+\* We believe we’ve fixed MC-10 and a whole bunch of other issues<br>
+\- Removed Herobrine<br>
+
+// The Minecraft Team

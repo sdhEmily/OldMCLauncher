@@ -1,0 +1,23 @@
+---
+layout: post
+title: Minecraft 1.6.1
+---
+**The Horse Update!**
+
+Important: In order to get this update, you need the new “Minecraft Launcher”. Download it here: [https://minecraft.net/download](https://minecraft.net/download) and replace the old launcher. (bruh)
+
+Changes in 1.6:
+
+\+ Added Horses<br>
+\+ Added Donkeys, Mules<br>
+\+ Added Horse Armor<br>
+\+ Added Leads<br>
+\+ Added Carpets<br>
+\+ Added Hardened Clay, Stained Clay<br>
+\+ Added Block of Coal<br>
+\+ Added Name Tags (item)<br>
+\+ Added Hay Bales<br>
+\* Texture packs are now “resource packs” that also can hold sound etc<br>
+\* Food meter is now drained when healed by full food meter<br>
+\* You can’t destroy blocks with a sword in creative mode<br>
+\- Removed Herobrine<br>

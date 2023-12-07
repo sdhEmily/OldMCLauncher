@@ -1,0 +1,14 @@
+---
+layout: post
+title: Minecraft 1.1
+---
+\+ Bow Enchantments<br>
+\+ New language translations.<br>
+\+ Sheep eat grass and regain their wool<br>
+\+ Added spawn eggs to creative (the colors of the eggs even look like the mobs)<br>
+\+ Added world type options (currently only super-flat and default)<br>
+\* Golden Apple recipe<br>
+\* Slightly smoothed color transitions between biomes<br>
+\* Reduced brewing time to 20 seconds<br>
+\* Removed collision box from ladders<br>
+\* Bug fixing<br>

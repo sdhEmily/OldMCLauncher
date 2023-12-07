@@ -1,0 +1,5 @@
+---
+layout: post
+title: Minecraft 1.8.1
+---
+We have released a new version of Minecraft, 1.8.1, which brings a bunch of new optimizations and bug fixes. It’s 100% compatible with 1.8, and comes with extra hugs.

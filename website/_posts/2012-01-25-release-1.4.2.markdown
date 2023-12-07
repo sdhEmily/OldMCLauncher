@@ -1,0 +1,41 @@
+---
+layout: post
+title: Minecraft 1.4.2
+---
+The Pretty Scary Update!
+
+\+ Added a beacon<br>
+\+ Added flower pots<br>
+\+ Added item frames<br>
+\+ Added anvils<br>
+\+ Added cobblestone walls<br>
+\+ Added pumpkin pies<br>
+\+ Added carrots and potatoes<br>
+\+ Carrots can be put on a stick to control pigs while riding<br>
+\+ Added a boss mob<br>
+\+ Added a new skeleton type<br>
+\+ Added witches<br>
+\+ Added bats<br>
+\+ Added mob heads that can be placed<br>
+\+ Zombies now infect villagers, but can also be cured<br>
+\+ Added wooden button<br>
+\+ Items can be cloned with the “pick block” action in Creative Mode<br>
+\+ Items can be quickly moved to the hotbar by pressing 1 through 9 while hovering an item<br>
+\+ Added /difficulty, /spawnpoint, /weather, /gamerule and /clear commands<br>
+\+ Added “target selectors” for commands<br>
+\+ Added option to hide capes<br>
+\+ Added option to toggle vertical synch<br>
+\+ Added customization to superflat worlds<br>
+\+ Minor additions to the world generator<br>
+\+ New potion recipes<br>
+\+ Leather armor can be dyed<br>
+\* Maps now start more zoomed in, and can be extended<br>
+\* Redstone repeaters can now be set into a “locked” position<br>
+\* New sound effects<br>
+\* Portals to the Nether can now transport items and mobs<br>
+\* Adventure mode now allows placing and removing blocks, but only when using the correct tools<br>
+\* Changed method of placing sideways wood logs<br>
+\* Improved server list<br>
+\* Improved debug (F3) options<br>
+\* Spawn protection is now automatically disabled if there are no defined admins<br>
+\- Removed Herobrine<br>

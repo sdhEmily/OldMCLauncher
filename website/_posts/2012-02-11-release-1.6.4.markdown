@@ -1,0 +1,7 @@
+---
+layout: post
+title: Minecraft 1.6.4
+---
+This update fixes world generation bugs that would appear in 1.7. It is recommended that you use this version and load up important areas of your world before heading into Minecraft 1.7.
+
+If you haven’t got it already, this update requires the new launcher that you can find here: [http://minecraft.net/download](http://minecraft.net/download)

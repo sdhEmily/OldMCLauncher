@@ -1,0 +1,5 @@
+---
+layout: post
+title: Minecraft 1.8.7
+---
+We have released Minecraft version 1.8.7 to fix some security issues. Updating is highly recommended from older versions, and is 100% compatible with all 1.8 versions.

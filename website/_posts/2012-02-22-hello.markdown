@@ -1,0 +1,47 @@
+---
+layout: post
+title: Hi / Bonjour / Ciao / ¡Hola / Cześć / Привет / こんにちは / 안녕하세요!
+---
+Thanks for playing Minecraft.
+To keep up to date with development, please check [Mojang.com](https://mojang.com). For more on Minecraft Realms - our easy to use, paid service that let’s you set up a persistent Minecraft world for you and your friends - please check [minecraft.net/realms](https://minecraft.net/realms).
+Have a nice day!
+
+**Bonjour!**
+Merci de jouer à Minecraft.
+Pour vous tenir informé sur le développement du jeu, veuillez visiter [Mojang.com](https://mojang.com). Pour en savoir davantage sur Minecraft Realms, notre service à utilisation facile qui vous permet de créer un monde persistant pour vous et vos amis, veuillez visiter [minecraft.net/realms](https://minecraft.net/realms).
+Passez une bonne journée !
+
+**Ciao!**
+Grazie per giocare a Minecraft.
+Per essere sempre aggiornato sullo sviluppo del gioco, dai un’occhiata a [Mojang.com](https://mojang.com). Per maggiori informazioni su Minecraft Realms (il servizio a pagamento per creare facilmente un mondo di Minecraft persistente per te e i tuoi amici) visita [minecraft.net/realms](https://minecraft.net/realms).
+Buona giornata!
+
+**Hi!**
+Danke, dass du Minecraft spielst!
+Um auf dem Laufenden zu bleiben, was die Entwicklung angeht, besuche bitte [Mojang.com](https://mojang.com). Für weitere Informationen zu Minecraft Realms – unserem unkomplizierten, kostenpflichtigen Service, der den Aufbau einer beständigen Minecraft-Welt für dich und deine Freunde ermöglicht – besuche bitte [minecraft.net/realms](https://minecraft.net/realms).
+Wir wünschen einen schönen Tag!
+
+**¡Hola!**
+Gracias por jugar a Minecraft.
+Para conocer las últimas noticias sobre el desarrollo, visita [Mojang.com](https://mojang.com). Visita [minecraft.net/realms](https://minecraft.net/realms) para ver más información sobre Minecraft Realms, nuestro intuitivo servicio de pago que te permite crear un mundo de Minecraft persistente para ti y para tus amigos.
+¡Que tengas un buen día!
+
+**Cześć!**
+Dziękujemy za grę w Minecrafta.
+Aby być na bieżąco z najnowszymi wiadomościami, odwiedź stronę [Mojang.com](https://mojang.com). Więcej informacji na temat Minecraft Realms - naszej prostej w użytku płatnej usługi umożliwiającej tworzenie serwerów gry Minecraft dla siebie i znajomych - znajdziesz na stronie [minecraft.net/realms](https://minecraft.net/realms).
+Miłego dnia!
+
+**Привет!**
+Спасибо, что играешь в Minecraft.
+Чтобы быть в курсе всех новостей, посети [Mojang.com](https://mojang.com). Чтобы узнать подробней о Minecraft Realms — нашей удобной платной услуге, с помощью которой ты сможешь создать стойкий и долговечный мир Minecraft для себя и для своих друзей, — посети [minecraft.net/realms](https://minecraft.net/realms).
+Удачи!
+
+**こんにちは！**
+Minecraftをプレイいただき、ありがとうございます。
+開発状況のチェックはこのウェブサイトをチェックしてください： [Mojang.com](https://mojang.com). Minecraft Realmsについての追加情報。友達と自分のためにMinecraftのワールドを持続的にセットアップできる有料サービスがご利用できます。詳細は以下でご覧ください： [minecraft.net/realms](https://minecraft.net/realms)
+それでは、良い一日を！
+
+**안녕하세요!**
+Minecraft를 이용해 주셔서 감사합니다.
+[Mojang.com](https://mojang.com)을 방문하시면 게임 개발 관련 최신 소식을 확인하실 수 있습니다. 여러분과 여러분의 친구들이 Minecraft 세계를 상시 구축할 수 있는 간편한 유료 서비스인 Minecraft Realms에 대한 자세한 내용은 [minecraft.net/realms](https://minecraft.net/realms)에서 찾아보실 수 있습니다.
+좋은 하루 보내세요!

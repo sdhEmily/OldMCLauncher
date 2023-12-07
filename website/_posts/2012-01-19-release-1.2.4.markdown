@@ -1,0 +1,34 @@
+---
+layout: post
+title: Minecraft 1.2.4
+---
+\+ Chat history and much better chat editing<br>
+\+ A few new decoration blocks<br>
+\+ “Back” and “Quit” buttons to OutOfMemoryScreen<br>
+\+ Made cats more realistic (read: probably annoying). I hope it’s enough to cancel out any joy you may receive from the previous feature!<br>
+\+ Added a “minimal” debug menu for testing with. Shift+F3 to hide the graphs.<br>
+\* Made placing half blocks on existing half blocks (to make a full block) easier<br>
+\* Limit framerate on menu screens, no longer uses 100% cpu and make my computer melt<br>
+\* Fixed fatal crash for converted worlds to anvil, when there’s blocks at max height<br>
+\* Fixed an old bug with signs clearing text while you’re editing them in SMP<br>
+\* Fixed crash when logging in while there are blocks at maxheight at spawn<br>
+\* Fixed TNT ghosts in multiplayer<br>
+\* Fixed storage minecarts dropping enchanted items<br>
+\* Fixed crashes on invalid server addresses when joining a server<br>
+\* Fixed entities being uninteractable if they existed at login (Multiplayer)<br>
+\* Fixed dupe exploit with paintings<br>
+\* Fixed furnaces and dispensers dropping enchanted items<br>
+\* Fixed the “flickering” of chat as it vanishes off the screen<br>
+\* Fixed text rendering over items in the container screens<br>
+\* Fixed exploit with jungle saplings (turns other saplings into jungle ones)<br>
+\* Fixed launcher opening minecraft dir if the path contains a space<br>
+\* Fixed an off-by-one lighting bug<br>
+\* Fixed block transmuting (turning one block into another via pistons)<br>
+\* Fixed placing mushrooms in daylight, where they can’t survive<br>
+\* Fixed redstone lamps dropping powered block items when destroyed while on<br>
+\* “save-all” (server) now works even when you have toggled “save-off”<br>
+\* Fixed turning half-blocks into full-blocks while you’re standing on them<br>
+\* Fixed seed displaying in F3 debug when the seed is unknown (multiplayer)<br>
+\* Fixed villager texture changing clientside per profession<br>
+\* Fixed falling off ledge corners while holding shift<br>
+\* Fixed players falling when reconnecting to servers where they were previously flying <br>

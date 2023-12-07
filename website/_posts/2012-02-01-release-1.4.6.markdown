@@ -1,0 +1,10 @@
+---
+layout: post
+title: Minecraft 1.4.6
+---
+\* Added fireworks<br>
+\* Added enchantable books<br>
+\* A lot of enchantments have been tweaked<br>
+\* A Christmas surprise<br>
+\* Added option to enable touchscreen input for buttons and inventory<br>
+\* Many issues have been fixed!<br>

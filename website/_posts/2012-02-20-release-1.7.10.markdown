@@ -1,0 +1,10 @@
+---
+layout: post
+title: Minecraft 1.7.10
+---
+\+ Added Realms world uploader<br>
+\+ Added Realms player activity monitor<br>
+\+ Realms worlds now have more options and settings<br>
+\* Command blocks in Realms have been re-enabled<br>
+\* Improvements in Realms UI<br>
+\* Bugfixing<br>

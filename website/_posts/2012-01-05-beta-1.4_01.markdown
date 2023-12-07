@@ -1,0 +1,7 @@
+---
+layout: post
+title: Minecraft Beta 1.4_01
+---
+\* Removed the April fools joke<br>
+
+(The server was updated as well, but it’s an optional update)

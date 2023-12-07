@@ -1,0 +1,50 @@
+---
+layout: post
+title: Minecraft 1.3.1
+---
+\+ Single-player now runs a server internally<br>
+\+ Publish the single-player instance to LAN<br>
+\+ Automatically detect LAN worlds in multi-player screen<br>
+\+ Added “cheats” option in single-player (enables commands)<br>
+\+ Added “bonus chest” option to give players a quicker start in a new world<br>
+\+ Added adventure mode (work in progress)<br>
+\+ Added trading with villagers<br>
+\+ Added emeralds, emerald blocks and emerald ore<br>
+\+ Added cocoa beans to jungles<br>
+\+ Added the Ender Chest<br>
+\+ Added tripwires<br>
+\+ Added new creative mode inventory with search functionality<br>
+\+ Made it possible to gain enchantment orbs from mining ore and smelting<br>
+\+ Added writeable books<br>
+\+ Added “large biomes” world type<br>
+\+ Added temples to jungles and deserts<br>
+\+ Added chat settings<br>
+\+ Added option to turn off and view snooper data<br>
+\+ Added more information on the debug screen (F3)<br>
+\+ New launcher with “Play Demo” button if not premium user<br>
+\+ Added /seed command to see map seed<br>
+\+ Added /defaultgamemode to set default game mode in a world (affects new players)<br>
+\+ Added /debug command for profiling<br>
+\+ Added SRV record lookup support<br>
+\* Decreased max enchantment level from 50 to 30<br>
+\* The /tp command can now send players to a specific coordinate<br>
+\* Mobs can spawn on flat surfaces (such as up-side-down stairs)<br>
+\* Updated language files<br>
+\* Mobs are much less likely to glitch through blocks<br>
+\* Server list can be reordered<br>
+\* Nearby items in the world will auto-stack<br>
+\* Stars are smaller and brighter<br>
+\* Sky color in The End has been changed<br>
+\* The “pick block” functionality has been improved<br>
+\* Certain items that previously wasn’t stackable can now be stacked<br>
+\* Hill biomes are slightly taller<br>
+\* Wooden log blocks can now be placed side-ways<br>
+\* Wooden half-blocks now act as wood<br>
+\* Water slowly drips through leaves during rain<br>
+\* Minecarts and boats will be placed by dispensers, if possible<br>
+\* Gravel texture has been modified<br>
+\* Levers can be placed in the roof<br>
+\* Creepers’ explosions damage is now modified by difficulty<br>
+\* Performance improvements<br>
+\* Other bug fixes…<br>
+\- Removed Herobrine<br>
