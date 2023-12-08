@@ -8,3 +8,10 @@ olauncher
 target
 
 *.jar
+
+AutoOL/.idea
+AutoOL/*.iml
+AutoOL/target
+AutoOL/src/main/resources/patch.properties
+AutoOL/src/main/resources/*.patch
+AutoOL/work

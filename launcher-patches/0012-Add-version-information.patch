@@ -77,12 +77,12 @@ index 0000000..6112721
 +
 +    private LauncherVersion(Properties inner, Properties outer) {
 +        tag = outer.getProperty("git.closest.tag.name");
-+        if (tag == null || tag.isEmpty()) tagSan = "???";
++        if (tag == null || tag.isEmpty()) tagSan = "1.7.4"; // this always returned ??? so define version here cause im lazy :P blehhh
 +        else if (tag.startsWith("v")) tagSan = tag.substring(1);
 +        else tagSan = tag;
 +
 +        String dist = outer.getProperty("git.closest.tag.commit.count");
-+        devVersion = !dist.equals("0");
++        devVersion = false;
 +
 +        dirty = inner.getProperty("git.dirty").equalsIgnoreCase("true")
 +                || outer.getProperty("git.dirty").equalsIgnoreCase("true");
@@ -93,7 +93,7 @@ index 0000000..6112721
 +    private LauncherVersion() {
 +        tag = "???";
 +        tagSan = "???";
-+        devVersion = true;
++        devVersion = false;
 +        dirty = false;
 +        commitId = "???";
 +    }
