@@ -154,7 +154,7 @@ index 0000000..e7febd1
 +            return;
 +        }
 +
-+        String curTag = LauncherVersion.getInstance().getTag();
++        String curTag = "v1.7.4";
 +        if (release.getTagName().compareTo(curTag) > 0) {
 +            new UpdateAvailableDialog(this, release);
 +        }
@@ -375,7 +375,7 @@ index 0000000..54d2325
 +        area.setText(release.getBody());
 +        infoScrollPane.setViewportView(area);
 +
-+        addUpdateInfo(infoPanel, "Update Version", LauncherVersion.getInstance().getTag() + " -> " + release.getTagName());
++        addUpdateInfo(infoPanel, "Update Version", "v1.7.4" + " -> " + release.getTagName());
 +        addUpdateInfo(infoPanel, "Released", getTimeSince(release.getCreatedAt()));
 +
 +        ReleaseInfo.Asset asset = release.getRedistAsset();
