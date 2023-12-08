@@ -1,0 +1,27 @@
+---
+layout: post
+title: Minecraft 1.20.2 released
+---
+
+We're now releasing 1.20.2 for Minecraft: Java Edition. This release comes with more diamond ore in the deep regions of the world and changes to mob attack reach as well as optimizations to the game's networking performance enabling smoother online play even on low-bandwidth connections.<br>
+
+**Changelog:**<br>
+\* The calculations to determine whether a mob can attack a player or other mobs have been changed<br>
+\* Diamond Ore is now generated more frequently in the Deepslate layers of the Overworld<br>
+\* Optimizations to networked play<br>
+\* Curing a Zombie Villager now only gives a big discount the first time<br>
+\* Sponges and Wet Sponges now have their own custom sounds<br>
+\* Barrier blocks can now be waterlogged by players in Creative mode<br>
+\* The positions that all entities ride on other entities have been adjusted to make more sense<br>
+\* Added the "Narrator Hotkey" accessibility option (default on)<br>
+\* Added "I want to report them" Player Reporting category<br>
+\* Removed Herobrine<br>
+
+
+**GET THE RELEASE:**<br>
+
+Cross-platform server jar:<br>
+\* [Minecraft server jar](https://piston-data.mojang.com/v1/objects/5b868151bd02b41319f54c8d4061b8cae84e665c/server.jar)<br>
+
+Report bugs here:<br>
+\* [Minecraft issue tracker!](https://bugs.mojang.com/browse/MC)<br>
