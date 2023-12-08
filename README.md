@@ -36,5 +36,4 @@ The commands must be run in the following order to build from source:
 - `mvn clean package`
   - Compiles the patched launcher
 - `genredist.sh` (optional)
-  - Make sure you've run `git submodule update --init` as this script uses the `AutoOL` submodule.
   - Generates the redistributable JAR - Do not distribute the JARs in `olauncher/target`!
